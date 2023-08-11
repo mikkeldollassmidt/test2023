@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Terningen\Terningen\bin\Debug\Terningen.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Terningen\Terningen\bin\Debug\Terningen.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Terningen\Terningen\bin\Debug\Terningen.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Terningen\Terningen\obj\Debug\Terningen.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Terningen\Terningen\obj\Debug\Terningen.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Terningen\Terningen\obj\Debug\Terningen.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Terningen\Terningen\obj\Debug\Terningen.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Terningen\Terningen\obj\Debug\Terningen.pdb
