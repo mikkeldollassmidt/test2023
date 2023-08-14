@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\HeldOgLotto\HeldOgLotto\bin\Debug\HeldOgLotto.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\HeldOgLotto\HeldOgLotto\bin\Debug\HeldOgLotto.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\HeldOgLotto\HeldOgLotto\bin\Debug\HeldOgLotto.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\HeldOgLotto\HeldOgLotto\obj\Debug\HeldOgLotto.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\HeldOgLotto\HeldOgLotto\obj\Debug\HeldOgLotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\HeldOgLotto\HeldOgLotto\obj\Debug\HeldOgLotto.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\HeldOgLotto\HeldOgLotto\obj\Debug\HeldOgLotto.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\HeldOgLotto\HeldOgLotto\obj\Debug\HeldOgLotto.pdb

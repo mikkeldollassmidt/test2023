@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Nim\Nim\obj\Debug\Nim.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Nim\Nim\obj\Debug\Nim.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Nim\Nim\obj\Debug\Nim.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Nim\Nim\bin\Debug\Nim.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Nim\Nim\bin\Debug\Nim.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Nim\Nim\bin\Debug\Nim.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Nim\Nim\obj\Debug\Nim.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Nim\Nim\obj\Debug\Nim.pdb

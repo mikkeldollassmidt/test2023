@@ -1,0 +1,8 @@
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Juletræet\Juletræet\bin\Debug\Juletræet.exe.config
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Juletræet\Juletræet\bin\Debug\Juletræet.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Juletræet\Juletræet\bin\Debug\Juletræet.pdb
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Juletræet\Juletræet\obj\Debug\Juletræet.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Juletræet\Juletræet\obj\Debug\Juletræet.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Juletræet\Juletræet\obj\Debug\Juletræet.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Juletræet\Juletræet\obj\Debug\Juletræet.exe
+C:\Users\zbc23mods\Desktop\H1\ProgrammeringsOpgaver\Juletræet\Juletræet\obj\Debug\Juletræet.pdb
